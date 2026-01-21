@@ -809,3 +809,5 @@ Responde (EN TUS PROPIAS PALABRAS) estas preguntas para consolidar tu aprendizaj
 ### Tutoriales
 - [Mongoose Getting Started](https://mongoosejs.com/docs/index.html)
 - [MongoDB CRUD Operations](https://docs.mongodb.com/manual/crud/)
+
+Ejercicio completado por Jean Mora
